@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hasssam-github">
+  <a href="https://github.com/hassamsaeed04">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Designing+with+Claude+%C3%97+Figma+MCP;From+research+to+code-ready+UI%2C+faster;AI-augmented+product+design+for+web+%26+mobile;Open+for+freelance+projects+%E2%9C%A6" alt="Designing with Claude and Figma MCP"/>
   </a>
 </p>
