@@ -86,32 +86,30 @@ status:    Open to freelance projects and remote roles
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/26791178-AI-Workflow-Builder-Automation-Flow-UI"><img src="https://cdn.dribbble.com/userupload/45762049/file/8ef881a52938b386568bf406b7671b8d.png?resize=800x600" alt="AI Workflow Builder"/></a>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/26791178-AI-Workflow-Builder-Automation-Flow-UI"><img src="https://cdn.dribbble.com/userupload/45762049/file/8ef881a52938b386568bf406b7671b8d.png?resize=800x600" alt="AI Workflow Builder" width="100%"/></a>
       <p align="center"><b>AI Workflow Builder</b><br/><sub>Automation flow UI</sub></p>
     </td>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/26747337-AI-Chatbot-UI-Design"><img src="https://cdn.dribbble.com/userupload/45623195/file/2aed89bbc429b07a5ea5cd95c4bedfe1.png?resize=800x600" alt="AI Chatbot UI"/></a>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/26747337-AI-Chatbot-UI-Design"><img src="https://cdn.dribbble.com/userupload/45623195/file/2aed89bbc429b07a5ea5cd95c4bedfe1.png?resize=800x600" alt="AI Chatbot" width="100%"/></a>
       <p align="center"><b>AI Chatbot</b><br/><sub>Conversational product UI</sub></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/26941937-SaaS-Integrations-Platform-Web-UI-Design"><img src="https://cdn.dribbble.com/userupload/46248002/file/5663a345131639a6b25aec73e0058465.png?resize=800x600" alt="SaaS Integrations Platform"/></a>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/26941937-SaaS-Integrations-Platform-Web-UI-Design"><img src="https://cdn.dribbble.com/userupload/46248002/file/5663a345131639a6b25aec73e0058465.png?resize=800x600" alt="SaaS Integrations Platform" width="100%"/></a>
       <p align="center"><b>SaaS Integrations Platform</b><br/><sub>Web app UI</sub></p>
     </td>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/27008948-Y-Combinator-Landing-Page-Startup-Web-UI"><img src="https://cdn.dribbble.com/userupload/46472924/file/5482177e8f3b5a8e48807febbae63b68.png?resize=800x600" alt="Startup Landing Page"/></a>
-      <p align="center"><b>Startup Landing Page</b><br/><sub>Marketing web UI</sub></p>
-    </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/26813726-AI-Powered-Landing-Page-Digital-Branding-Agency"><img src="https://cdn.dribbble.com/userupload/45831178/file/cccd51c5751e5f83755b4d568465975a.png?resize=800x600" alt="AI-Powered Agency Landing Page"/></a>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/27008948-Y-Combinator-Landing-Page-Startup-Web-UI"><img src="https://cdn.dribbble.com/userupload/46472924/file/5482177e8f3b5a8e48807febbae63b68.png?resize=800x600" alt="Startup Landing Page" width="100%"/></a>
+      <p align="center"><b>Startup Landing Page</b><br/><sub>Marketing web UI</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/26813726-AI-Powered-Landing-Page-Digital-Branding-Agency"><img src="https://cdn.dribbble.com/userupload/45831178/file/cccd51c5751e5f83755b4d568465975a.png?resize=800x600" alt="AI-Powered Agency Site" width="100%"/></a>
       <p align="center"><b>AI-Powered Agency Site</b><br/><sub>Digital branding landing page</sub></p>
     </td>
-    <td width="50%">
-      <a href="https://dribbble.com/shots/26603937-Doctor-Appointment-App-UI"><img src="https://cdn.dribbble.com/userupload/45159029/file/779ceb08829c179c99149df18594d605.png?resize=800x600" alt="Doctor Appointment App"/></a>
+    <td width="33%" valign="top">
+      <a href="https://dribbble.com/shots/26603937-Doctor-Appointment-App-UI"><img src="https://cdn.dribbble.com/userupload/45159029/file/779ceb08829c179c99149df18594d605.png?resize=800x600" alt="Doctor Appointment App" width="100%"/></a>
       <p align="center"><b>Doctor Appointment App</b><br/><sub>Mobile app UI</sub></p>
     </td>
   </tr>
