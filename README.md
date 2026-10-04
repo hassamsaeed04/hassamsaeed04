@@ -2,9 +2,16 @@
   <img src="./assets/banner.svg" alt="Hassam Saeed — UI/UX Designer, AI-Augmented Product Design" width="100%"/>
 </p>
 
+<h1 align="center">Hassam Saeed · UI/UX Designer &amp; AI Product Designer</h1>
+
+<p align="center">
+  <b>Figma expert designing web apps, SaaS dashboards, mobile apps and design systems with Claude × Figma MCP.</b><br/>
+  Based in Rawalpindi, Pakistan · Available for freelance and remote work worldwide
+</p>
+
 <p align="center">
   <a href="https://github.com/hasssam-github">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Designing+with+Claude+%C3%97+Figma+MCP;From+research+to+code-ready+UI%2C+faster;AI-augmented+product+design+for+web+%26+mobile;Open+for+freelance+projects+%E2%9C%A6" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Designing+with+Claude+%C3%97+Figma+MCP;From+research+to+code-ready+UI%2C+faster;AI-augmented+product+design+for+web+%26+mobile;Open+for+freelance+projects+%E2%9C%A6" alt="Designing with Claude and Figma MCP"/>
   </a>
 </p>
 
@@ -35,7 +42,7 @@ Right now I design **Conduitly's web app** remotely for a US-based team, end to 
 role:      UI/UX Designer · AI-Augmented Product Design
 focus:     Web apps · Mobile apps · Design systems · Branding
 workflow:  Research → Figma → Claude × Figma MCP → code-ready specs
-based_in:  Pakistan · working remote, hybrid or on-site
+based_in:  Rawalpindi, Pakistan · remote, hybrid or on-site
 status:    Open to freelance projects and remote roles
 ```
 
@@ -63,6 +70,17 @@ status:    Open to freelance projects and remote roles
 </p>
 
 <p align="center"><sub>Also: Figma AI · Claude Design · Midjourney · Canva</sub></p>
+
+## 🛠️ Services
+
+| What I design | What you get |
+|---|---|
+| **Landing pages & websites** | Conversion-focused UI for startups, SaaS and agencies |
+| **SaaS & web app UI** | Dashboards, complex flows and admin panels built on a design system |
+| **Mobile app UI/UX** | iOS and Android screens, onboarding, paywalls and prototypes |
+| **Design systems** | Figma components, variables and tokens ready for developers |
+| **AI product UX** | Chatbots, agent workflows and AI-native interfaces |
+| **Figma to code** | Code-ready specs and UI via Claude × Figma MCP and Cursor |
 
 ## 🎨 Selected work
 
